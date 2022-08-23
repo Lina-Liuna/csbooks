@@ -1,5 +1,5 @@
 # Ryan's CS Reading List
-Here are some CS textbooks and cheats that I may quick-refer from time to time. I uploaded them here so I can avoid transfering books from one device to another, every time when it's needed.
+Here are some CS textbooks and cheats that might be useful to quick-refer from time to time. I uploaded them here so I can conveniently retrieve them, rather than painstakingly transfering the files from one device to another every time I need them.
 
 ## Data Structure (CS61B)
 

@@ -10,7 +10,7 @@ Here are some CS textbooks and cheats that might be useful to quick-refer from t
 
 [Java](/cs61b/java.pdf)
 
-### Res & Cheatsheets
+### Cheatsheets
 [Big_O_Cheatsheet](/cs61b/bigo.pdf)
 
 ## Machine Structure (CS61C)
@@ -22,7 +22,7 @@ Here are some CS textbooks and cheats that might be useful to quick-refer from t
 
 [WSC](/cs61c/WSCBarrosoHolzle.pdf)
 
-### Res & Cheatsheets
+### Cheatsheets
 [RISC_V_Card](/cs61c/riscvcard.pdf)
 
 ## Discrete Math & Prob Theory (CS70)

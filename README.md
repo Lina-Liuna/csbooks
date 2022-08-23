@@ -1,4 +1,4 @@
-# Ryan An's Reading List
+# Ryan's Reading List
 
 Here is a list of books I'm reading. I put the PDF files here so I don't have to deal with my laptop's airdrop which is not working (God knows why).
 

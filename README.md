@@ -32,6 +32,7 @@ Here are some CS textbooks and cheats that I may quick-refer from time to time. 
 [Notes](/cs188/CS188-Sp22.pdf)
 
 ## Computer Security (CS161)
+[textbook](https://textbook.cs161.org/)
 
 ## Efficient Algorithms and Intractable Problems (CS170)
 [Algorithms_DPV](/cs170/Algorithms_DPV.pdf)

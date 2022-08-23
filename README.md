@@ -5,7 +5,9 @@ Here are some CS textbooks and cheats that might be useful to quick-refer from t
 
 ### Textbooks
 [Algorithms](/cs61b/algo.pdf)
+
 [Data_Structures](/cs61b/data-structures.pdf)
+
 [Java](/cs61b/java.pdf)
 
 ### Cheatsheets
@@ -15,7 +17,9 @@ Here are some CS textbooks and cheats that might be useful to quick-refer from t
 
 ### Textbooks
 [Machine_Structure](/cs61c/computer_organization.pdf)
+
 [C](/cs61c/c.pdf)
+
 [WSC](/cs61c/WSCBarrosoHolzle.pdf)
 
 ### Cheatsheets
@@ -35,6 +39,7 @@ Here are some CS textbooks and cheats that might be useful to quick-refer from t
 
 ## Optimization Models (CS127)
 [Optimization_Models](/cs127/Optimization_Models.pdf)
+
 [online_textbook](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/index.html)
 
 ## Deep Learning (CS182)

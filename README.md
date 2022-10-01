@@ -40,6 +40,8 @@ Here are some CS textbooks and cheats that might be useful to quick-refer from t
 ## Optimization Models (CS127)
 [Optimization_Models](/cs127/Optimization_Models.pdf)
 
+[Convex_Optimization](/cs127/Convex_Optimization_BS.pdf)
+
 [online_textbook](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/index.html)
 
 ## Deep Learning (CS182)

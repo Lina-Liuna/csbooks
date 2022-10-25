@@ -46,5 +46,7 @@ Here are some CS textbooks and cheats that might be useful to quick-refer from t
 
 ## Deep Learning (CS182)
 
+[mt_review_printed](/182mt_review_printed.pdf)
+
 
 
